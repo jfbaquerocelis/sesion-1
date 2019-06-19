@@ -1,3 +1,5 @@
 'use strict'
 
-console.log('Hola Liana')
+var user = 'Liana'
+
+console.log(`Hello ${user}`)
